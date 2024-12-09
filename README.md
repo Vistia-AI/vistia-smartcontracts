@@ -1,0 +1,4 @@
+<h1>VISTIA SMART CONTRACTS DEPLOYMENT</h1>
+
+<h2>PREREQUISITE</h2>
+Create .env file and add your own "PRIVATE_KEY" & "ENDPOINT"
